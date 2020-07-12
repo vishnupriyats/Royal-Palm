@@ -5032,6 +5032,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
   .media img { padding: 2rem;
                 margin: 2rem; }
+                
   .media { display: block; } /* On small screens, show one logo per row */
 }
 
